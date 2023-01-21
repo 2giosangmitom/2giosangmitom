@@ -11,7 +11,7 @@
 ![Tailwind](https://img.shields.io/badge/-Tailwind-311701?style=for-the-badge&color=1e1e2e&logo=tailwindcss&logoColor=#06B6D4)
 
 <details>
-  <summary>Github stat & Contributions </summary>
+  <summary>Github stats & Contributions </summary>
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yeuxacucodon&show_icons=true&hide_border=true&theme=radical" />
   <img width="49%" src="https://streak-stats.demolab.com?user=yeuxacucodon&theme=radical&hide_border=true"/>
