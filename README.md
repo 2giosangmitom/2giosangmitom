@@ -9,6 +9,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-311701?style=for-the-badge&color=1e1e2e&logo=html5&logoColor=#E34F26)
 ![CSS](https://img.shields.io/badge/-CSS-311701?style=for-the-badge&color=1e1e2e&logo=css3&logoColor=#1572B6)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-311701?style=for-the-badge&color=1e1e2e&logo=tailwindcss&logoColor=#06B6D4)
+![Cpp](https://img.shields.io/badge/-C++-311701?style=for-the-badge&color=1e1e2e&logo=cplusplus&logoColor=#00599C)
 
 <details>
   <summary>Github stats & Contributions </summary>
