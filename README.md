@@ -15,7 +15,7 @@
 <details>
   <summary>Github stats & Contributions </summary>
 <div align="center">
-  <img width="40%" height="150px" src="https://github-readme-stats.vercel.app/api?username=yeuxacucodon&hide_border=true&show_icons=true&theme=radical" />
+  <img width="45%" height="150px" src="https://github-readme-stats.vercel.app/api?username=yeuxacucodon&hide_border=true&show_icons=true&theme=radical" />
   <img width="40%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeuxacucodon&layout=compact&hide_border=true&theme=radical" />
 </div>
 
