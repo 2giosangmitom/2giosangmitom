@@ -12,8 +12,8 @@
 ![Cpp](https://img.shields.io/badge/-C++-311701?style=for-the-badge&color=1e1e2e&logo=cplusplus&logoColor=00599c)
 ![Lua](https://img.shields.io/badge/-Lua-311701?style=for-the-badge&color=1e1e2e&logo=lua&logoColor=0042ff)
 
-<details>
-  <summary>Github stats & Contributions </summary>
+**Github stats & Contributions**
+
 <div align="center">
   <img width="50%" height="180px" src="https://github-readme-stats.vercel.app/api?username=yeuxacucodon&hide_border=true&include_all_commits=true&show_icons=true&theme=radical" />
   <img width="45%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeuxacucodon&layout=compact&hide_border=true&theme=radical&langs_count=10" />
@@ -22,4 +22,3 @@
 <div align="center">
   <img src="https://github.com/yeuxacucodon/yeuxacucodon/blob/output/github-contribution-grid-snake-dark.svg" />
 </div>
-</details>
