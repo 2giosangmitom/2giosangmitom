@@ -15,8 +15,8 @@
 <details>
   <summary>Github stats & Contributions </summary>
 <div align="center">
-  <img width="48%" height="190px" src="https://github-readme-stats.vercel.app/api?username=yeuxacucodon&show_icons=true&hide_border=true&theme=radical" />
-  <img width="48%" height="190px" src="https://streak-stats.demolab.com?user=yeuxacucodon&theme=radical&hide_border=true" />
+  <img width="48%" height="185px" src="https://github-readme-stats.vercel.app/api?username=yeuxacucodon&show_icons=true&hide_border=true&theme=radical" />
+  <img width="48%" height="185px" src="https://streak-stats.demolab.com?user=yeuxacucodon&theme=radical&hide_border=true" />
 </div>
 
 <div align="center">
