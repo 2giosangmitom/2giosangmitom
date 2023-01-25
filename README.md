@@ -1,6 +1,6 @@
 <h2 align="center"> :wave: Hello, I'm yeuxacucodon </h2>
 
-**My skills:**
+**My skills**
 
 ![Neovim](https://img.shields.io/badge/-Neovim-311701?style=for-the-badge&color=1e1e2e&logo=neovim&logoColor=a6e3a1)
 ![Arch](https://img.shields.io/badge/-Archlinux-311701?style=for-the-badge&color=1e1e2e&logo=archlinux&logoColor=89b4fa)
