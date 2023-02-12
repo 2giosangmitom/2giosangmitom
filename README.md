@@ -15,8 +15,8 @@
 **Github stats & Contributions**
 
 <div align="center">
-  <img width="45%" height="180px" align="left" src="https://github-readme-stats.vercel.app/api?username=yeuxacucodon&show_icons=true&theme=radical&hide_border=true" />
-  <img width="45%" height="180px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeuxacucodon&layout=compact&hide_border=true&theme=radical&langs_count=10" />
+  <img height="180px" align="left" src="https://github-readme-stats.vercel.app/api?username=yeuxacucodon&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeuxacucodon&layout=compact&hide_border=true&theme=radical&langs_count=10" />
 </div>
 
 <div align="center">
