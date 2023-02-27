@@ -15,10 +15,11 @@
 **Github stats & Contributions**
 
 <div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=yeuxacucodon&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeuxacucodon&layout=compact&hide_border=true&theme=radical&langs_count=10&exclude_repo=pascal-thieu-nhi" />
+  <a href="https://github.com/yeuxacucodon"><img height="180px" src="https://github-readme-stats.vercel.app/api?username=yeuxacucodon&show_icons=true&theme=radical&hide_border=true" /> </a>
+  <a href="https://github.com/yeuxacucodon"><img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeuxacucodon&layout=compact&hide_border=true&theme=radical&langs_count=10&exclude_repo=pascal-thieu-nhi" /> </a>
 </div>
 
+<!-- Github contributions -->
 <div align="center">
-  <img align="center" src="https://github.com/yeuxacucodon/yeuxacucodon/blob/output/github-contribution-grid-snake-dark.svg" />
+  <a href="https://github.com/yeuxacucodon"><img align="center" src="https://github.com/yeuxacucodon/yeuxacucodon/blob/output/github-contribution-grid-snake-dark.svg" /></a>
 </div>
