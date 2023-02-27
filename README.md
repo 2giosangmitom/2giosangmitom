@@ -15,11 +15,13 @@
 **Github stats & Contributions**
 
 <div align="center">
-  <a href="#"><img height="180px" src="https://github-readme-stats.vercel.app/api?username=yeuxacucodon&show_icons=true&theme=radical&hide_border=true" /> </a>
-  <a href="#"><img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeuxacucodon&layout=compact&hide_border=true&theme=radical&langs_count=10&exclude_repo=pascal-thieu-nhi" /> </a>
+  <!-- Stats -->
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=yeuxacucodon&show_icons=true&theme=radical&hide_border=true" />
+  <!-- Top langs -->
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeuxacucodon&layout=compact&hide_border=true&theme=radical&langs_count=10&exclude_repo=pascal-thieu-nhi" />
 </div>
 
 <!-- Github contributions -->
 <div align="center">
-  <a href="#"><img align="center" src="https://github.com/yeuxacucodon/yeuxacucodon/blob/output/github-contribution-grid-snake-dark.svg" /></a>
+  <img align="center" src="https://github.com/yeuxacucodon/yeuxacucodon/blob/output/github-contribution-grid-snake-dark.svg" />
 </div>
