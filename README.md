@@ -2,7 +2,7 @@
 
 **My skills**
 
-<div align="left">
+<div>
   <img src="https://img.shields.io/badge/-Neovim-311701?style=for-the-badge&color=1e1e2e&logo=neovim&logoColor=a6e3a1" />
   <img src="https://img.shields.io/badge/-Archlinux-311701?style=for-the-badge&color=1e1e2e&logo=archlinux&logoColor=89b4fa" />
   <img src="https://img.shields.io/badge/-Bash-311701?style=for-the-badge&color=1e1e2e&logo=gnu-bash&logoColor=bac2de" />
