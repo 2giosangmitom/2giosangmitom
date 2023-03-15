@@ -1,5 +1,15 @@
-<h2 align="center"> :wave: Hello, I'm yeuxacucodon </h2>
+<div align="center">
+<img src="./girl.svg" width="50%" />
+</div>
 
+<h2 align="center"> :wave: Hello, I'm yeuxacucodon </h2>
+<h3 align="center"> A passionate fullstack developer from Viet Nam</h3>
+
+<!-- <ul>
+  <li>🔭 I’m currently working on <a href="https://github.com/yeuxacucodon/neovim-config"><b>neovim-config</b></a> and <a href="https://github.com/yeuxacucodon/algorithms"><b>algorithms</b></a></li>
+  <li>🌱 I’m currently learning <b>Rust</b></li>
+</ul> -->
+    
 **My skills**
 
 <div>
