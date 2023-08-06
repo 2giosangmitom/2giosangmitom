@@ -9,7 +9,7 @@ I'm **Vo Quang Chien**, a full-stack developer in Viet Nam
 - 🎨 Frameworks and library: Express.js, NestJS, Tailwind, Bootstrap, React, Next.js, Redux, Jest
 - 👨🏾‍💻 Other skills: GraphQL, Docker
 
-## Things I'm learning:
+## 📚 I'm learning about:
 
 - Design database, API
 - Web security
