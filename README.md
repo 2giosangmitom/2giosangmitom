@@ -1,3 +1,36 @@
+<h1 align="center">Hi 👋, I'm Vo Quang Chien</h1>
+<h3 align="center">A passionate fullstack developer from Viet Nam</h3>
+
+- 🌱 I’m currently learning **Rust**
+
+- 👨‍💻 My website [https://2giosangmitom.vercel.app/](https://2giosangmitom.vercel.app/)
+
+- 💬 Ask me about **React, Next.js, Express.js, NestJS, JavaScript, TypeScript and Golang**
+
+- 📫 How to reach me **yeuxacucodon.dev@proton.me**
+
+### Skills and Tools:
+#### >> Languages:
+<div align='center'>
+  <img src='https://skillicons.dev/icons?i=html,css,sass,js,ts,go,rust,bash' />
+</div>
+
+#### >> Front End:
+<div align='center'>
+  <img src='https://skillicons.dev/icons?i=react,redux,bootstrap,tailwind,nextjs,vite' />
+</div>
+
+#### >> Back End:
+<div align='center'>
+  <img src='https://skillicons.dev/icons?i=nodejs,redis,postgres,kafka,rabbitmq,nestjs,expressjs,mongodb,graphql' />
+</div>
+
+#### >> Tools:
+<div align='center'>
+  <img src='https://skillicons.dev/icons?i=neovim,vscode,linux,git,githubactions,docker,kubernetes,nginx,jest,jenkins,babel,appwrite' />
+</div>
+
+### Statistics:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yeuxacucodon&show_icons=true&theme=radical&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeuxacucodon&langs_count=10&layout=compact&hide_border=true&theme=radical" />
