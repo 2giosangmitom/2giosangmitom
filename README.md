@@ -1,21 +1,27 @@
-<h1 align="center">Hi 👋, I'm Vo Quang Chien</h1>
-<h3 align="center">A passionate fullstack developer from Viet Nam</h3>
+# Hello 👋
 
-- 🌱 I’m currently learning **Rust, Socket.io, gRPC**
+I'm **Vo Quang Chien**, a full-stack developer in Viet Nam
 
-- 👨 💻 My website [https://2giosangmitom.vercel.app/](https://2giosangmitom.vercel.app/)
+## 🛠️ Things I can do:
 
-- 💬 Ask me about **React, Next.js, Express.js, NestJS, JavaScript, TypeScript and Golang**
+- 🖥️ Programming languages: TypeScript, JavaScript, Golang, Rust, Bash
+- 🗣️ Human languages: Vietnamese, English
+- 🎨 Frameworks and library: Express.js, NestJS, Tailwind, Bootstrap, React, Next.js, Redux, Jest
+- 👨🏾‍💻 Other skills: GraphQL, Docker
 
-- 📫 How to reach me **yeuxacucodon.dev@proton.me**
+## Things I'm learning:
 
-### Skills and Tools:
+- Design database, API
+- Web security
+- CI/CD
+
+## 🧰 The tools I use:
 
 <div align='center'>
-  <img src='https://skillicons.dev/icons?i=html,css,sass,js,ts,go,rust,bash,graphql,react,redux,bootstrap,tailwind,nextjs,vite,nodejs,redis,postgres,kafka,rabbitmq,nestjs,expressjs,mongodb,neovim,vscode,linux,git,githubactions,docker,kubernetes,nginx,jest,jenkins,babel,appwrite' />
+  <img src='https://skillicons.dev/icons?i=redis,postgres,kafka,rabbitmq,mongodb,neovim,vscode,linux,git,githubactions,docker,kubernetes,nginx,jenkins,appwrite' />
 </div>
 
-### Statistics:
+## 🧮 Statistics:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yeuxacucodon&show_icons=true&theme=radical&hide_border=true" />
