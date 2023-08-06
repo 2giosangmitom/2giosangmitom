@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vo Quang Chien</h1>
 <h3 align="center">A passionate fullstack developer from Viet Nam</h3>
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Rust, Socket.io, gRPC**
 
 - 👨‍💻 My website [https://2giosangmitom.vercel.app/](https://2giosangmitom.vercel.app/)
 
@@ -10,24 +10,8 @@
 - 📫 How to reach me **yeuxacucodon.dev@proton.me**
 
 ### Skills and Tools:
-#### >> Languages:
 <div align='center'>
-  <img src='https://skillicons.dev/icons?i=html,css,sass,js,ts,go,rust,bash,graphql' />
-</div>
-
-#### >> Front End:
-<div align='center'>
-  <img src='https://skillicons.dev/icons?i=react,redux,bootstrap,tailwind,nextjs,vite' />
-</div>
-
-#### >> Back End:
-<div align='center'>
-  <img src='https://skillicons.dev/icons?i=nodejs,redis,postgres,kafka,rabbitmq,nestjs,expressjs,mongodb' />
-</div>
-
-#### >> Tools:
-<div align='center'>
-  <img src='https://skillicons.dev/icons?i=neovim,vscode,linux,git,githubactions,docker,kubernetes,nginx,jest,jenkins,babel,appwrite' />
+  <img src='https://skillicons.dev/icons?i=html,css,sass,js,ts,go,rust,bash,graphql,react,redux,bootstrap,tailwind,nextjs,vite,nodejs,redis,postgres,kafka,rabbitmq,nestjs,expressjs,mongodb,neovim,vscode,linux,git,githubactions,docker,kubernetes,nginx,jest,jenkins,babel,appwrite' />
 </div>
 
 ### Statistics:
@@ -36,4 +20,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeuxacucodon&langs_count=10&layout=compact&hide_border=true&theme=radical" />
 </div>
 
-![image](https://github-readme-activity-graph.vercel.app/graph?username=yeuxacucodon&bg_color=1e1a1c&color=ffffff&line=6f68df&point=cf4ee9&area=true&hide_border=true)
+![](https://github-readme-activity-graph.vercel.app/graph?username=yeuxacucodon&bg_color=1e1a1c&color=ffffff&line=6f68df&point=cf4ee9&area=true&hide_border=true)
