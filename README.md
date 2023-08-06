@@ -12,7 +12,7 @@
 ### Skills and Tools:
 #### >> Languages:
 <div align='center'>
-  <img src='https://skillicons.dev/icons?i=html,css,sass,js,ts,go,rust,bash' />
+  <img src='https://skillicons.dev/icons?i=html,css,sass,js,ts,go,rust,bash.graphql' />
 </div>
 
 #### >> Front End:
@@ -22,7 +22,7 @@
 
 #### >> Back End:
 <div align='center'>
-  <img src='https://skillicons.dev/icons?i=nodejs,redis,postgres,kafka,rabbitmq,nestjs,expressjs,mongodb,graphql' />
+  <img src='https://skillicons.dev/icons?i=nodejs,redis,postgres,kafka,rabbitmq,nestjs,expressjs,mongodb' />
 </div>
 
 #### >> Tools:
