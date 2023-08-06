@@ -12,7 +12,7 @@
 ### Skills and Tools:
 #### >> Languages:
 <div align='center'>
-  <img src='https://skillicons.dev/icons?i=html,css,sass,js,ts,go,rust,bash.graphql' />
+  <img src='https://skillicons.dev/icons?i=html,css,sass,js,ts,go,rust,bash,graphql' />
 </div>
 
 #### >> Front End:
