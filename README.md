@@ -7,7 +7,7 @@ I'm **Vo Quang Chien**, a full-stack developer in Viet Nam
 - 🖥️ Programming languages: TypeScript, JavaScript, Golang, Rust, Bash, C, C++
 - 🗣️ Human languages: Vietnamese, English
 - 🎨 Frameworks and library: Express.js, Tailwind, Bootstrap, React, Next.js, Redux, Jest, Gin, Fiber
-- 👨🏾‍💻 Other skills: GraphQL, Docker, Kubernetes
+- 👨🏾‍💻 Other skills: GraphQL, Docker, Kubernetes, Jenkins
 
 ## 📚 I'm learning about:
 
@@ -29,4 +29,4 @@ I'm **Vo Quang Chien**, a full-stack developer in Viet Nam
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeuxacucodon&langs_count=10&layout=compact&hide_border=true&theme=radical" />
 </div>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=yeuxacucodon&bg_color=1e1a1c&color=ffffff&line=6f68df&point=cf4ee9&area=true&hide_border=true)
+![](https://github-readme-activity-graph.vercel.app/graph?username=yeuxacucodon&theme=react-dark&area=true&hide_border=true)
