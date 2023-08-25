@@ -4,9 +4,9 @@ I'm **Vo Quang Chien**, a full-stack developer in Viet Nam
 
 ## 🛠️ Things I can do:
 
-- 🖥️ Programming languages: TypeScript, JavaScript, Golang, Rust, Bash, C, C++
+- 🖥️ Programming languages: TypeScript, JavaScript, Golang, Rust, Bash, C#
 - 🗣️ Human languages: Vietnamese, English
-- 🎨 Frameworks and library: Express.js, Tailwind, Bootstrap, React, Next.js, Redux, Jest, Gin, Fiber
+- 🎨 Frameworks and library: Express.js, Tailwind, Bootstrap, React, Next.js, Redux, Jest, React Testing Library, Gin-gonic, Fiber, ASP.NET Core
 - 👨🏾‍💻 Other skills: GraphQL, Docker, Kubernetes, Jenkins, Terraform
 
 ## 📚 I'm learning about:
@@ -14,7 +14,8 @@ I'm **Vo Quang Chien**, a full-stack developer in Viet Nam
 - Database design
 - Web security
 - CI/CD
-- gRPC, RabbitMQ, Terraform
+- gRPC, RabbitMQ, Terraform, Kubernetes
+- Microservice
 
 ## 🧰 The tools I use:
 
