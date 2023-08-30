@@ -1,6 +1,6 @@
-# Hello 👋
-
-I'm **Vo Quang Chien**, a full-stack developer in Viet Nam
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=07EEF7&center=true&vCenter=true&width=435&lines=hello+%F0%9F%91%8B;i'm+Chien;i+like+code;thanks+for+reading+%3A)" />
+</div>
 
 ## 🛠️ Things I can do:
 
