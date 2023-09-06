@@ -26,8 +26,8 @@
 ## 🧮 Statistics:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yeuxacucodon&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeuxacucodon&langs_count=10&layout=compact&hide_border=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=2giosangmitom&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2giosangmitom&langs_count=10&layout=compact&hide_border=true&theme=radical" />
 </div>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=yeuxacucodon&theme=react-dark&area=true&hide_border=true)
+![](https://github-readme-activity-graph.vercel.app/graph?username=2giosangmitom&theme=react-dark&area=true&hide_border=true)
