@@ -4,9 +4,9 @@
 
 ## 🛠️ Things I can do:
 
-- 🖥️ Programming languages: TypeScript, JavaScript, Golang, Rust, Bash, C#
+- 🖥️ Programming languages: TypeScript, JavaScript, Golang, Rust, Bash, C#, Lua, Java
 - 🗣️ Human languages: Vietnamese, English
-- 🎨 Frameworks and library: Express.js, Tailwind, Bootstrap, React, Next.js, Redux, Jest, React Testing Library, Gin-gonic, Fiber, ASP.NET Core
+- 🎨 Frameworks and library: Express.js, Tailwind, React, Next.js, Jest, Redux, Gin-gonic, Fiber, ASP.NET Core
 - 👨🏾‍💻 Other skills: GraphQL, Docker, Kubernetes, Jenkins, Terraform
 
 ## 📚 I'm learning about:
@@ -20,7 +20,7 @@
 ## 🧰 The tools I use:
 
 <div align='center'>
-  <img src='https://skillicons.dev/icons?i=redis,postgres,kafka,rabbitmq,mongodb,neovim,vscode,linux,git,githubactions,docker,kubernetes,nginx,jenkins,appwrite' />
+  <img src='https://skillicons.dev/icons?i=neovim,linux,git,githubactions,docker,kubernetes,jenkins,azure,bash,cs,deno,go,graphql,java,js,ts,jest,lua,react,nextjs,nodejs,postgres,mongodb,rabbitmq,redux,rust,express,dotnet' />
 </div>
 
 ## 🧮 Statistics:
