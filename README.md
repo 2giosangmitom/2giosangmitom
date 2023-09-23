@@ -4,7 +4,7 @@
 
 ## 🛠️ Things I can do:
 
-- 🖥️ Programming languages: TypeScript, JavaScript, Golang, Rust, Bash, C#, Lua, Java
+- 🖥️ Programming languages: TypeScript, JavaScript, Golang, Rust, Bash, C#, Java
 - 🗣️ Human languages: Vietnamese, English
 - 🎨 Frameworks and library: Express.js, Tailwind, React, Next.js, Jest, Redux, Gin-gonic, Fiber, ASP.NET Core
 - 👨🏾‍💻 Other skills: GraphQL, Docker, Kubernetes, Jenkins, Terraform
