@@ -4,23 +4,15 @@
 
 ## 🛠️ Things I can do:
 
-- 🖥️ Programming languages: TypeScript, JavaScript, Golang, Rust, Bash, C#, Java
+- 🖥️ Programming languages: TypeScript, JavaScript, Golang, Rust, Bash, C#
 - 🗣️ Human languages: Vietnamese, English
-- 🎨 Frameworks and library: Express.js, Tailwind, React, Next.js, Jest, Redux, Gin-gonic, Fiber, ASP.NET Core
-- 👨🏾‍💻 Other skills: GraphQL, Docker, Kubernetes, Jenkins, Terraform
-
-## 📚 I'm learning about:
-
-- Database design
-- Web security
-- CI/CD
-- gRPC, RabbitMQ, Terraform, Kubernetes
-- Microservice
+- 🎨 Frameworks and library: Tailwind, React, Next.js, Redux, Fiber, ASP.NET Core, Entity Framework Core
+- 👨🏾‍💻 Other skills: GraphQL, Docker, Kubernetes
 
 ## 🧰 The tools I use:
 
 <div align='center'>
-  <img src='https://skillicons.dev/icons?i=neovim,linux,git,githubactions,docker,kubernetes,jenkins,azure,bash,cs,deno,go,graphql,java,js,ts,jest,lua,react,nextjs,nodejs,postgres,mongodb,rabbitmq,redux,rust,express,dotnet' />
+  <img src='https://skillicons.dev/icons?i=neovim,linux,git,githubactions,docker,kubernetes,azure,bash,redis,cs,go,graphql,tailwind,js,ts,jest,react,nextjs,nodejs,postgres,mongodb,rabbitmq,redux,bootstrap,kafka,rust,dotnet' />
 </div>
 
 ## 🧮 Statistics:
