@@ -7,7 +7,7 @@
 - 🖥️ Programming languages: TypeScript, JavaScript, Golang, Rust, Bash, C#
 - 🗣️ Human languages: Vietnamese, English
 - 🎨 Frameworks and library: Tailwind, React, Next.js, Redux, Fiber, ASP.NET Core, Entity Framework Core
-- 👨🏾‍💻 Other skills: GraphQL, Docker, Kubernetes
+- 👨🏾‍💻 Other skills: GraphQL, SQL, Docker, Kubernetes
 
 ## 🧰 The tools I use:
 
