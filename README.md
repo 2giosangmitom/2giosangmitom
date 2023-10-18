@@ -9,17 +9,17 @@
 - 🎨 Frameworks and library: Tailwind, React, Next.js, Redux, Fiber, ASP.NET Core, Entity Framework Core
 - 👨🏾‍💻 Other skills: GraphQL, SQL, Docker, Kubernetes
 
-## 🧰 The tools I use:
+## 🧰 The technologies I use:
 
 <div align='center'>
-  <img src='https://skillicons.dev/icons?i=neovim,linux,git,githubactions,docker,kubernetes,azure,bash,redis,cs,go,graphql,tailwind,js,ts,jest,react,nextjs,nodejs,postgres,mongodb,rabbitmq,redux,bootstrap,kafka,rust,dotnet' />
+  <img src='https://skillicons.dev/icons?i=neovim,linux,githubactions,docker,kubernetes,bash,redis,cs,go,graphql,tailwind,js,ts,jest,react,nextjs,nodejs,postgres,mongodb,rabbitmq,redux,bootstrap,rust,dotnet' />
 </div>
 
 ## 🧮 Statistics:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=2giosangmitom&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2giosangmitom&langs_count=10&layout=compact&hide_border=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2giosangmitom&langs_count=20&layout=compact&hide_border=true&theme=radical" />
 </div>
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=2giosangmitom&theme=react-dark&area=true&hide_border=true)
