@@ -1,4 +1,4 @@
-# Welcome to Vo Quang Chien's GitHub Profile! 🍺
+# Hello, I'm Vo Quang Chien 🍺
 
 I'm Vo Quang Chien, a web developer from Vietnam with a passion for building high-performance systems. My expertise lies in utilizing Rust, Go, and C# to craft robust and efficient solutions. With a focus on microservices architecture, I am dedicated to harnessing the power of these languages to create scalable and reliable applications. Through continuous learning and innovation, I aim to push the boundaries of performance and deliver exceptional user experiences.
 
