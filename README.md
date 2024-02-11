@@ -23,10 +23,10 @@ Here are the top 20 languages I frequently use:
 
 I'm always open to connecting with fellow developers, discussing ideas, and collaborating on projects. Feel free to reach out to me via:
 
-- Email: yeuxacucodon.dev@proton.me
-- LinkedIn: [https://www.linkedin.com/in/2giosangmitom/](https://www.linkedin.com/in/2giosangmitom/)
-- Twitter: [https://twitter.com/2giosangmitom](https://twitter.com/2giosangmitom)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2giosangmitom-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/2giosangmitom/)
+[![Twitter](https://img.shields.io/badge/Twitter-2giosangmitom-blue?style=flat-square&logo=twitter)](https://twitter.com/2giosangmitom)
+[![Facebook](https://img.shields.io/badge/Facebook-2giosangmitom-blue?style=flat-square&logo=facebook)](https://www.facebook.com/2giosangmitom)
 
-Let's build amazing things together! 🌟
+Let's build amazing things together! 🤝
 
-Happy coding! 🚀
+Happy coding! 💝
