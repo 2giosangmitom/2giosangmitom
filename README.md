@@ -1,4 +1,32 @@
-## Hello, I'm 2giosangmitom 🍻
+# Welcome to Vo Quang Chien's GitHub Profile! 🍺
 
-![stat](https://github-readme-stats.vercel.app/api?username=2giosangmitom&show_icons=true&theme=dark&hide_border=true&show=reviews&role=owner,collaborator)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2giosangmitom&langs_count=20&hide_border=true&theme=dark&layout=compact)
+I'm Vo Quang Chien, a web developer from Vietnam with a passion for building high-performance systems. My expertise lies in utilizing Rust, Go, and C# to craft robust and efficient solutions. With a focus on microservices architecture, I am dedicated to harnessing the power of these languages to create scalable and reliable applications. Through continuous learning and innovation, I aim to push the boundaries of performance and deliver exceptional user experiences.
+
+## Skills 💻
+
+- **Development Tools**: Linux, Neovim
+- **Containerization**: Docker, Nix
+- **Languages**: C#, Rust, Go, TypeScript, Bash
+- **Frontend Frameworks**: React, Next.js, Vue.js, Nuxt.js, Astro
+
+## GitHub Statistics 📊
+
+Here's a snapshot of my GitHub activity:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=2giosangmitom&show_icons=true&theme=radical&hide_border=true)
+
+Here are the top 20 languages I frequently use:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2giosangmitom&layout=compact&theme=radical&langs_count=20&hide_border=true)
+
+## Get in Touch 📬
+
+I'm always open to connecting with fellow developers, discussing ideas, and collaborating on projects. Feel free to reach out to me via:
+
+- Email: yeuxacucodon.dev@proton.me
+- LinkedIn: [https://www.linkedin.com/in/2giosangmitom/](https://www.linkedin.com/in/2giosangmitom/)
+- Twitter: [https://twitter.com/2giosangmitom](https://twitter.com/2giosangmitom)
+
+Let's build amazing things together! 🌟
+
+Happy coding! 🚀
