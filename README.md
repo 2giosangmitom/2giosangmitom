@@ -6,8 +6,9 @@ I'm Vo Quang Chien, a web developer from Vietnam with a passion for building hig
 
 - **Development Tools**: Linux, Neovim.
 - **Containerization**: Docker, Nix.
-- **Languages**: C#, Rust, Go, TypeScript, Bash.
-- **Frontend Frameworks**: React, Next.js, Vue.js, Nuxt.js, Astro.
+- **Programming Languages**: C#, Rust, Go, TypeScript, Bash, Nix, Lua.
+- **Frontend Frameworks**: React, Next.js, Vue.js, Nuxt.js.
+- **Backend Frameworks**: ASP.NET Core.
 
 ## GitHub Statistics 📊
 
