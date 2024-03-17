@@ -4,9 +4,9 @@ I'm Vo Quang Chien, a web developer from Vietnam with a passion for building hig
 
 ## Skills 💻
 
-- **Development Tools**: Linux, Neovim.
+- **Development Tools**: NixOS, Neovim.
 - **Containerization**: Docker, Nix.
-- **Programming Languages**: C#, Rust, Go, TypeScript, Bash, Nix, Lua.
+- **Programming Languages**: C#, Rust, Go, TypeScript, JavaScript, Bash, Nix, Lua.
 - **Frontend Frameworks**: React, Next.js, Vue.js, Nuxt.js.
 - **Backend Frameworks**: ASP.NET Core.
 
