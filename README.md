@@ -1,4 +1,4 @@
-# Hello, I'm Chiến 👋
+# Hello, I'm Vo Quang Chien 👋
 
 ![](./typing-text.svg)
 
