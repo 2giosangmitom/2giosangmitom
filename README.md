@@ -33,5 +33,5 @@ Here are some of the technologies I enjoy working with:
 
 ## 📊 GitHub Stats
 
-![Vo Quang Chien's GitHub Stats](https://github-readme-stats.vercel.app/api?username=2giosangmitom&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2giosangmitom&layout=compact&langs_count=20&theme=radical&hide_border=true)
+![Vo Quang Chien's GitHub Stats](https://github-readme-stats.vercel.app/api?username=2giosangmitom&show_icons=true&theme=onedark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2giosangmitom&layout=compact&langs_count=20&theme=onedark&hide_border=true)
