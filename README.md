@@ -4,7 +4,8 @@
 
 ## 👨‍💻 About Me
 
-- Passionate about coding and web development.
+- A beginner full-stack developer
+- A college student
 - I enjoy boxing and staying active in the gym.
 - Always eager to learn and explore new technologies.
 
