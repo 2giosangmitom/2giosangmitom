@@ -38,7 +38,7 @@ Here are some of the tools and technologies I work with:
 
 ## 📖 Currently Learning
 
-- ⚙️ Diving deeper into **Go** and **Java** for backend development.
+- ⚙️ Diving deeper into **Java** and **Spring Framework** for backend development.
 - 📚 Exploring **JavaScript**, **Vue.js**, and **Nuxt.js** for frontend development.
 
 ## 📊 GitHub Stats
