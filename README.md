@@ -23,7 +23,7 @@ Here are some of the tools and technologies I work with:
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=black)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=black)
 
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=black)
+![Nodejs](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=black)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=black)
@@ -37,7 +37,7 @@ Here are some of the tools and technologies I work with:
 
 ## 📖 Currently Learning
 
-- ⚙️ Diving deeper into **Java** and **Spring Framework** for backend development.
+- ⚙️ Diving deeper into **Node.js** and **TypeScript** for backend development.
 - 📚 Exploring **JavaScript**, **Vue.js**, and **Nuxt.js** for frontend development.
 
 ## 📊 GitHub Stats
