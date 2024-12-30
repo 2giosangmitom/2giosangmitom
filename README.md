@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 
-- 💻 **Aspiring Full-stack developer** passionate about building robust and scalable applications.
+- 💻 **Aspiring back-end developer** passionate about building robust and scalable applications.
 - 🎓 **College student**, always eager to learn and grow.
 - 🥊 When not coding, I'll find **boxing** or hitting the **gym**.
 - 🌱 Exploring **new technologies** and constantly challenging myself to improve.
