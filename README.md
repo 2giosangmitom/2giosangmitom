@@ -1,15 +1,15 @@
 # 👋 Hello, I'm Vo Quang Chien
 
-![Typing Animation](./typing-text.svg)
+![typing](./typing-text.svg)
 
-## 👨‍💻 About Me
+## 👨‍💻 About me
 
 - 💻 **Aspiring back-end developer** passionate about building robust and scalable applications.
 - 🎓 **College student**, always eager to learn and grow.
 - 🥊 When not coding, I'll find **boxing** or hitting the **gym**.
 - 🌱 Exploring **new technologies** and constantly challenging myself to improve.
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tools & technologies
 
 Here are some of the tools and technologies I work with:
 
@@ -35,12 +35,12 @@ Here are some of the tools and technologies I work with:
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=black)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=black)
 
-## 📖 Currently Learning
+## 📖 Currently learning
 
 - ⚙️ Diving deeper into **Node.js** and **TypeScript** for backend development.
 - 📚 Exploring **JavaScript**, **Vue.js**, and **Nuxt.js** for frontend development.
 
-## 📊 GitHub Stats
+## 📊 GitHub stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=2giosangmitom&show_icons=true&theme=radical&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2giosangmitom&layout=compact&langs_count=10&theme=radical&hide_border=true)
