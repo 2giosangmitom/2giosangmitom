@@ -25,7 +25,6 @@ Here are some of the tools and technologies I work with:
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nix](https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=black)
 
 ## 📖 Currently learning
 
@@ -35,6 +34,6 @@ Here are some of the tools and technologies I work with:
 ## 📊 GitHub stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=2giosangmitom&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2giosangmitom&layout=compact&langs_count=10&theme=radical&hide_border=true&hide)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2giosangmitom&layout=compact&langs_count=20&theme=radical&hide_border=true&hide=nix,just,vim%20script,html,css,scss,dockerfile,makefile)
 
-## 🌟 _"I'm not the best, but I will make myself better everyday"_
+🌟 _"I'm not the best, but I will make myself better everyday"_
