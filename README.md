@@ -33,7 +33,7 @@ Here are some of the tools and technologies I work with:
 
 ## 📊 GitHub stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=2giosangmitom&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2giosangmitom&layout=compact&langs_count=20&theme=radical&hide_border=true&hide=nix,just,vim%20script,html,css,scss,dockerfile,makefile,cmake)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=2giosangmitom&show_icons=true&theme=radical&hide_border=true&rank_icon=github&disable_animations=true&show=reviews,discussions_started&prs_merged&prs_merged_percentage&discussions_answered)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2giosangmitom&layout=compact&langs_count=20&theme=radical&hide_border=true&hide=nix,just,vim%20script&disable_animations=true)
 
 🌟 _"I'm not the best, but I will make myself better everyday"_
