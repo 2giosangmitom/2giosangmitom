@@ -4,7 +4,7 @@ My name is Võ Quang Chiến, a passionate developer from Vietnam. I have a deep
 
 My primary languages are C++ and JavaScript, with some experience in Lua, Bash, Rust and Nix.
 
-My editor is Neovim, and I do everything in my terminal.
+My editor is Neovim, and I do everything in the terminal.
 
 [_Website_](https://2giosangmitom.is-a.dev/) • [_YouTube_](https://www.youtube.com/@2giosangmitom) • [_LinkedIn_](https://www.linkedin.com/in/2giosangmitom/)
 
