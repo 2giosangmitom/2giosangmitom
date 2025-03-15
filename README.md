@@ -1,6 +1,6 @@
-# **Hello there**
+# Hello there
 
-I'm _Vo Quang Chien_, an IT student at **Hue University of Science, Vietnam**. I have a deep passion for backend development, network programming, system programming, and everything Linux. I love building efficient, high-performance applications and exploring the inner workings of operating systems and databases.
+I'm Vo Quang Chien, an IT student at Hue University of Science, Vietnam. I have a deep passion for full-stack web development, network programming, and system programming. I love building efficient, high performance applications and exploring the inner workings of operating systems and databases. My primary languages are C++, Rust and JavaScript.
 
 [_Website_](https://2giosangmitom.is-a.dev/) • [_YouTube_](https://www.youtube.com/@2giosangmitom) • [_LinkedIn_](https://www.linkedin.com/in/2giosangmitom/)
 
