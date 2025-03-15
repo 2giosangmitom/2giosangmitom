@@ -2,7 +2,7 @@
 
 My name is Võ Quang Chiến, a passionate developer from Vietnam. I have a deep passion for full-stack web development, network programming, and system programming. I enjoy working with Linux, and building efficient applications. I also love ricing and tinkering!
 
-My primary languages are C++, JavaScript and Rust, with some experience in Lua, Bash and Nix.
+My primary languages are C++ and JavaScript, with some experience in Lua, Bash, Rust and Nix.
 
 My editor is Neovim, and I do everything in my terminal.
 
