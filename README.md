@@ -2,7 +2,7 @@
 
 I'm Vo Quang Chien, a university student from Vietnam 🇻🇳.
 
-I'm interested in full-stack web development and embedded systems. My career goal is to become a full-stack embedded programmer - someone who can work from low-level firmware up to full-featured web apps.
+I'm interested in full-stack web development and embedded systems. My career goal is to become a full-stack embedded programmer.
 
 My primary languages are C, C++, Java, and TypeScript.
 
@@ -26,4 +26,4 @@ I love Linux, the terminal, and Vim. In my free time, I enjoy ricing my Linux se
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=2giosangmitom&show_icons=true&theme=radical&hide_border=true&rank_icon=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2giosangmitom&layout=compact&langs_count=20&theme=radical&hide_border=true&hide=just,dockerfile,cmake,vim%20script,cmake,html,css,scss,nix)
 
-> _"Accept all the things you cannot change and change all the things you cannot accept."_
+> _"Accept the things you cannot change and change the things you cannot accept."_
