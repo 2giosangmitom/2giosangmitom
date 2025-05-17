@@ -4,7 +4,7 @@ I'm Vo Quang Chien, a university student from Vietnam 🇻🇳.
 
 I'm interested in full-stack web development and embedded systems. My career goal is to become a full-stack embedded programmer.
 
-My primary languages are C, C++, Java, and TypeScript.
+My primary languages are C, C++, and TypeScript.
 
 I love Linux, the terminal, and Vim. In my free time, I enjoy ricing my Linux setup and customizing Neovim :)
 
