@@ -13,7 +13,7 @@ I love Linux, the terminal, and Vim. In my free time, I enjoy ricing my Linux se
 - Embedded development with C/C++
 - Network protocols and Linux system programming
 - Full-stack development with Node.js, Vue/Nuxt, and REST APIs
-- Rust (currently learning)
+- Rust (picking up)
 
 ## 📫 Connect with me
 
