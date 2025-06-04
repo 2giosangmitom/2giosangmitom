@@ -6,14 +6,16 @@ I'm interested in full-stack web development and embedded systems. My career goa
 
 My primary languages are C, C++, and TypeScript.
 
-I love Linux, the terminal, and Vim. In my free time, I enjoy ricing my Linux setup and customizing Neovim :)
+I love Linux, the terminal, and Vim.
+
+I also love ricing and tinkering.
 
 ## 🧠 What I'm exploring
 
 - Embedded development with C/C++
 - Network protocols and Linux system programming
 - Full-stack development with Node.js, Vue/Nuxt, and REST APIs
-- Rust (picking up)
+- New languages: Python, Rust
 
 ## 📫 Connect with me
 
@@ -24,6 +26,6 @@ I love Linux, the terminal, and Vim. In my free time, I enjoy ricing my Linux se
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=2giosangmitom&show_icons=true&theme=radical&hide_border=true&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2giosangmitom&layout=compact&langs_count=20&theme=radical&hide_border=true&hide=just,dockerfile,cmake,vim%20script,cmake,html,css,scss,nix)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2giosangmitom&layout=compact&langs_count=10&theme=radical&hide_border=true&hide=just,dockerfile,vim%20script,nix)
 
 > _"Accept the things you cannot change and change the things you cannot accept."_
