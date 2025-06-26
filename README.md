@@ -12,10 +12,10 @@ I also love ricing and tinkering.
 
 ## 🧠 What I'm exploring
 
-- Embedded development with C/C++
-- Network protocols and Linux system programming
 - Full-stack development with Node.js, Vue/Nuxt, and REST APIs
-- New languages: Python, Rust
+- Network protocols and Linux system programming
+- New languages: Python, Rust, Java
+- Embedded development with C/C++
 
 ## 📫 Connect with me
 
