@@ -2,7 +2,7 @@
 
 I'm Vo Quang Chien, a university student from Vietnam 🇻🇳.
 
-I'm passionate about full-stack web development and embedded systems. My long-term goal is to become a full-stack embedded programmer.
+I'm passionate about full-stack web development and embedded systems.
 
 My main programming languages are C, C++, and TypeScript, with some experience in Python.
 
@@ -11,8 +11,8 @@ I'm a fan of Linux, the terminal, and Vim. I also enjoy ricing and tinkering wit
 ## 🧠 Currently Exploring
 
 - Full-stack development with Node.js, Vue/Nuxt, and REST APIs
-- Network protocols, Linux system programming
-- New languages: Java, Rust
+- Network programming, Linux system programming
+- New languages: Rust, Java
 - Embedded development using C/C++
 
 ## 📫 Connect With Me
