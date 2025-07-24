@@ -12,7 +12,7 @@ A big fan of Linux, the terminal, and Vim, I love ricing and constantly tinkerin
 
 ## 🧠 Currently Exploring
 
-- Full‑stack development – Node.js (Express & Fastify), Vue/Nuxt, REST APIs
+- Full‑stack development – Node.js (Express, Fastify & NestJS), Vue/Nuxt
 - Network programming & Linux system programming
 
 ## 📫 Connect With Me
