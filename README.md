@@ -24,6 +24,6 @@ A big fan of Linux, the terminal, and Vim, I love ricing and constantly tinkerin
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=2giosangmitom&show_icons=true&theme=radical&hide_border=true&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2giosangmitom&layout=compact&langs_count=10&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2giosangmitom&layout=compact&langs_count=10&theme=radical&hide_border=true&hide=vim%20script)
 
 > _"🍜 Accept the things you cannot change, and change the things you cannot accept."_
