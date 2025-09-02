@@ -12,8 +12,8 @@ A big fan of Linux, the terminal, and Vim. I enjoy ricing my setup and constantl
 
 ## 🧠 What I’m Exploring
 
-- Back-end development with **Node.js** (Fastify & Express)
-- **Linux** internals & **Docker**
+- The **Go** programming language.
+- Blockchain.
 
 ## 📫 Connect With Me
 
