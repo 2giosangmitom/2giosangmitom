@@ -2,17 +2,17 @@
 
 I'm **Vo Quang Chien**, a university student from Vietnam 🇻🇳.
 
-Passionate about **full-stack web development**, and **all things Linux**.
+I'm passionate about **full-stack web development**, **blockchain**, and **Linux**.
 
-My main programming languages are **C, C++, and TypeScript**, with some experience in **Python**.
+My main programming languages are **C/C++ and TypeScript**, with some experience in **Python** and **Java**.
 
-A big fan of Linux, the terminal, and Vim. I enjoy ricing my setup and constantly tinkering with my dev environment to make it my own.
+I'm a big fan of Linux, the terminal, and Vim. I enjoy ricing my setup and constantly tinkering with my dev environment to make it look prettier.
 
 > BTW, I use Arch Linux 🐧.
 
-## 🧠 What I’m Exploring
+## 🧠 What I'm Exploring
 
-- The **Solidity** programming language.
+- **Solidity**.
 - Blockchain.
 
 ## 📫 Connect With Me
@@ -27,4 +27,4 @@ A big fan of Linux, the terminal, and Vim. I enjoy ricing my setup and constantl
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2giosangmitom&layout=compact&langs_count=10&theme=merko&hide_border=true&hide=vim%20script)
 ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=2giosangmitom&theme=merko&hide_border=true)
 
-> _"🍜 Accept the things you cannot change, and change the things you cannot accept."_
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=merko&animation=default&layout=default&font=default&quoteType=random)
