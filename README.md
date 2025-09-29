@@ -12,7 +12,7 @@ A big fan of Linux, the terminal, and Vim. I enjoy ricing my setup and constantl
 
 ## 🧠 What I’m Exploring
 
-- The **Go** programming language.
+- The **Solidity** programming language.
 - Blockchain.
 
 ## 📫 Connect With Me
