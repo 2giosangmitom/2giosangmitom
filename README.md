@@ -24,7 +24,7 @@ I'm a big fan of Linux, the terminal, and Vim. I enjoy ricing my setup and const
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=2giosangmitom&show_icons=true&theme=merko&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2giosangmitom&layout=compact&langs_count=10&theme=merko&hide_border=true&hide=vim%20script)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2giosangmitom&layout=compact&langs_count=10&theme=merko&hide_border=true&hide=vim%20script,scss,css,dockerfile,html,cmake,nix,just)
 ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=2giosangmitom&theme=merko&hide_border=true)
 
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=merko&animation=default&layout=default&font=default&quoteType=random)
