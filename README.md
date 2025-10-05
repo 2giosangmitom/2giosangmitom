@@ -4,7 +4,7 @@ I'm **Vo Quang Chien**, a university student from Vietnam 🇻🇳.
 
 I'm passionate about **full-stack web development**, **blockchain**, and **Linux**.
 
-My main programming languages are **C/C++ and TypeScript**, with some experience in **Python** and **Java**.
+My main programming languages are **C/C++ and TypeScript**.
 
 I'm a big fan of Linux, the terminal, and Vim. I enjoy ricing my setup and constantly tinkering with my dev environment to make it look prettier.
 
