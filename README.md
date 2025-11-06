@@ -12,8 +12,9 @@ I'm a big fan of Linux, the terminal, and Vim. I enjoy ricing my setup and const
 
 ## 🧠 What I'm Exploring
 
-- **Solidity**.
+- Solidity.
 - Blockchain.
+- AI Agents.
 
 ## 📫 Connect With Me
 
