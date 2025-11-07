@@ -1,10 +1,10 @@
 # 👋 Hello, World!
 
-I'm **Vo Quang Chien**, a university student from Vietnam 🇻🇳.
+🎓 I'm **Vo Quang Chien**, a university student from Vietnam 🇻🇳.
 
-I'm passionate about **full-stack web development**, **blockchain**, and **Linux**.
+I'm passionate about **Full-Stack Development**, **Smart Contracts**, and **AI**.
 
-My main programming languages are **C/C++ and TypeScript**.
+My main programming languages are **C/C++, Python and TypeScript**.
 
 I'm a big fan of Linux, the terminal, and Vim. I enjoy ricing my setup and constantly tinkering with my dev environment to make it look prettier.
 
@@ -12,9 +12,9 @@ I'm a big fan of Linux, the terminal, and Vim. I enjoy ricing my setup and const
 
 ## 🧠 What I'm Exploring
 
-- Solidity.
-- Blockchain.
-- AI Agents.
+- 🧩 **Solidity** - writing and deploying smart contracts on Ethereum.
+- 🔗 **Blockchain** - understanding decentralized infrastructure and dApps.
+- 🤖 **AI Agents** - integrating AI tools into real-world systems.
 
 ## 📫 Connect With Me
 
