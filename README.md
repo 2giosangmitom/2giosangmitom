@@ -4,17 +4,11 @@
 
 I'm passionate about **Full-Stack Development**, **Smart Contracts**, and **AI**.
 
-My main programming languages are **C/C++, Python and TypeScript**.
+My main programming languages are **Go, C++, Python, and TypeScript**.
 
 I'm a big fan of Linux, the terminal, and Vim. I enjoy ricing my setup and constantly tinkering with my dev environment to make it look prettier.
 
 > BTW, I use Arch Linux 🐧.
-
-## 🧠 What I'm Exploring
-
-- 🧩 **Solidity** - writing and deploying smart contracts on Ethereum.
-- 🔗 **Blockchain** - understanding decentralized infrastructure and dApps.
-- 🤖 **AI Agents** - integrating AI tools into real-world systems.
 
 ## 📫 Connect With Me
 
@@ -24,5 +18,5 @@ I'm a big fan of Linux, the terminal, and Vim. I enjoy ricing my setup and const
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=2giosangmitom&show_icons=true&theme=merko&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2giosangmitom&layout=compact&langs_count=20&theme=merko&hide_border=true&hide=vim%20script,scss,css,dockerfile,html,cmake,nix,just)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=2giosangmitom&show_icons=true&theme=merko&hide_border=true)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=2giosangmitom&layout=compact&langs_count=20&theme=merko&hide_border=true&hide=vim%20script,scss,css,dockerfile,html,cmake,nix,just)
