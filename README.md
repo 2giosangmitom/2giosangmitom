@@ -4,7 +4,7 @@
 
 I'm passionate about **Full-Stack Development**, **Smart Contracts**, and **AI**.
 
-My main programming languages are **Go, C++, Python, and TypeScript**.
+My main programming languages are **Python, and TypeScript**.
 
 I'm a big fan of Linux, the terminal, and Vim. I enjoy ricing my setup and constantly tinkering with my dev environment to make it look prettier.
 
