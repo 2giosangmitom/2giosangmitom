@@ -1,11 +1,18 @@
 # 👋 Hello, World!
 
-🎓 I'm **Vo Quang Chien**, a full-stack developer.
+Hi, I'm **Vo Quang Chien** — a full-stack developer who loves building high-performance and secure softwares.
 
-I'm passionate about **Full-Stack Development**, **Blockchain**, and **AI**.
+## 🚀 What I Do
 
-My main programming languages are **TypeScript** and **Go**.
+- 🧩 Full-Stack Development
+- 🔗 Blockchain & Web3
+- 🤖 AI-powered applications
 
-I'm a big fan of Linux, the terminal, and Vim. I enjoy ricing my setup and constantly tinkering with my dev environment to make it look prettier.
+I mainly work with **TypeScript** and **Rust**, and I enjoy designing systems that are clean, secure, and maintainable.
 
-Nice to meet you :)
+## 🛠 Tech & Tools
+
+- Languages: **TypeScript**, **Rust**
+- Environment: **Linux**
+
+Nice to meet you 👋
