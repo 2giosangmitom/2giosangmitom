@@ -1,6 +1,6 @@
 # 👋 Hello, World!
 
-Hi, I'm **Vo Quang Chien** — a full-stack developer who loves building high-performance and secure softwares.
+I'm **Vo Quang Chien** — a full-stack developer who loves building high-performance and secure softwares.
 
 ## 🚀 What I Do
 
