@@ -15,4 +15,7 @@ I mainly work with **TypeScript** and **Rust**, and I enjoy designing systems th
 - Languages: **TypeScript**, **Rust**
 - Environment: **Linux**
 
-Nice to meet you 👋
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=2giosangmitom&show_icons=true&theme=merko&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2giosangmitom&layout=compact&langs_count=20&theme=merko&hide_border=true&hide=vim%20script,scss,css,dockerfile,html,cmake,nix,just)
