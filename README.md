@@ -4,5 +4,5 @@ I'm Vo Quang Chien, a software developer. I interested in Web, Blockchain, AI, a
 
 ## GitHub Stats 📊
 
-![GitHub Stats](https://github-readme-stats-ivory-xi-62.vercel.app/api?username=2giosangmitom&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats-ivory-xi-62.vercel.app/api/top-langs/?username=2giosangmitom&layout=compact&langs_count=8&theme=radical&hide_border=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=2giosangmitom&show_icons=true&theme=radical&hide_border=true&rank_icon=percentile)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=2giosangmitom&layout=compact&langs_count=8&theme=radical&hide_border=true)
